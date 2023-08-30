@@ -1,0 +1,5 @@
+print('A\tB\tC\tD')
+print(1,2,3,4,sep=',')
+print(5,6,7,18, end="\t")
+print(9,10,sep='\n\t')
+print('end')
