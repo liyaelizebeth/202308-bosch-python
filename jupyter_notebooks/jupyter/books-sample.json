@@ -1,0 +1,47 @@
+[
+    {
+        "title": "The Accursed God",
+        "author": "Vivek Dutta Mishra",
+        "price": 299,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Great book. Must read"
+            },
+            {
+                "rating": 3,
+                "comment": "Time Pass"
+            }
+        ]
+    },
+    {
+        "title": "Manas",
+        "author": "Vivek Dutta Mishra",
+        "price": 199,
+        "reviews": [
+            {
+                "rating": 4,
+                "comment": "Good book"
+            },
+            {
+                "rating": 4,
+                "comment": "Good Book"
+            }
+        ]
+    },
+    {
+        "title": "Brethren",
+        "author": "John Grisham",
+        "price": 499,
+        "reviews": [
+            {
+                "rating": 4,
+                "comment": "Interesting"
+            },
+            {
+                "rating": 3,
+                "comment": "Redundant"
+            }
+        ]
+    }
+]
